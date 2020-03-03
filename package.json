@@ -2,11 +2,12 @@
   "name": "one-dark-vibrant",
   "displayName": "One Dark Vibrant",
   "description": "One Dark theme with high vibrant colors for optimal readability",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Mordrag",
   "repository": {
     "url": "https://github.com/MordragT/one-dark-vibrant"
   },
+  "icon": "img/one-dark-vibrant.png",
   "engines": {
       "vscode": "^1.42.0"
   },
