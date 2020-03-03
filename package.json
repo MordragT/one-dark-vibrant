@@ -7,7 +7,7 @@
   "repository": {
     "url": "https://github.com/MordragT/one-dark-vibrant"
   },
-  "icon": "img/one-dark-vibrant.png",
+  "icon": "icon.png",
   "engines": {
       "vscode": "^1.42.0"
   },
