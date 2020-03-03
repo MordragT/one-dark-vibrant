@@ -4,6 +4,9 @@
   "description": "One Dark theme with high vibrant colors for optimal readability",
   "version": "0.0.1",
   "publisher": "Mordrag",
+  "repository": {
+    "url": "https://github.com/MordragT/one-dark-vibrant"
+  },
   "engines": {
       "vscode": "^1.42.0"
   },

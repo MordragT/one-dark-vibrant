@@ -1,4 +1,4 @@
-# One Dark Atom
+# One Dark Vibrant
 
 This themes aims to replicate the popular One Dark Theme but with very vibrant colors for optimal readabilty
 
