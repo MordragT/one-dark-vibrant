@@ -1,27 +1,33 @@
 {
-  "name": "one-dark-vibrant",
-  "displayName": "One Dark Vibrant",
-  "description": "One Dark theme with high vibrant colors for optimal readability",
-  "version": "0.0.2",
-  "publisher": "Mordrag",
-  "repository": {
-    "url": "https://github.com/MordragT/one-dark-vibrant"
-  },
-  "icon": "icon.png",
-  "engines": {
-      "vscode": "^1.42.0"
-  },
-  "categories": [
-      "Themes"
-  ],
-  "contributes": {
-      "themes": [
-          {
-              "label": "One Dark Vibrant",
-              "uiTheme": "vs-dark",
-              "path": "./themes/One Dark Vibrant-color-theme.json"
-          }
-      ]
-  }
+    "name": "one-dark-vibrant",
+    "displayName": "One Dark Vibrant",
+    "description": "One Dark theme with high vibrant colors for optimal readability",
+    "version": "0.0.3",
+    "publisher": "Mordrag",
+    "repository": {
+        "url": "https://github.com/MordragT/one-dark-vibrant"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Vibrant-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "vpackage": "vsce package",
+        "vpublish": "vsce publish"
+    },
+    "dependencies": {
+        "vsce": "^2.10.0"
+    }
 }
-

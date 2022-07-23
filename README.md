@@ -6,13 +6,8 @@ This themes aims to replicate the popular One Dark Theme but with very vibrant c
 
 ## Contribution
 
-Contributions are welcome, just fork the project or create a issue on github.
+Contributions are welcome, just fork the project or create an issue on Github.
 
 ## Screenshots
 
-![screenshot_0.png](img/screenshot_0.png)
-
-![screenshot_1.png](img/screenshot_1.png)
-
-![screenshot_2.png](img/screenshot_2.png)
-
+![screenshot](img/0.png)

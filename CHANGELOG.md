@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "one-dark-atom" extension will be documented in this file.
+All notable changes to the "one-dark-vibrant" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.3]
 
-- Initial release
+- lighter background colors
+- bold fonts
+- better icon
